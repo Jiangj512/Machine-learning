@@ -1,5 +1,5 @@
 # Machine-learning
-Code of Machine learning assignment
+Code of course assignment
 ## structure
 code  
 ├── _xgboost.py  

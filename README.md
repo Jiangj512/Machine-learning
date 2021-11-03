@@ -1,9 +1,16 @@
 # Machine-learning
 Code of Machine learning assignment
-# structure
-code  
-├── _xgboost.py  
-├── bayes.py  
-├── bert.py  
-├── lstm.py  
-└── svm.py
+# Directory structure
+Machine-learning  
+├── dataset  
+    ├── train.txt 
+    ├── test.txt   
+    └── README.md
+├── code  
+    ├── _xgboost.py  
+    ├── bayes.py  
+    ├── bert.py  
+    ├── lstm.py  
+    └── svm.py
+└── README.md
+
